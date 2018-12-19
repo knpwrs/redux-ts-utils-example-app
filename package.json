@@ -1,6 +1,7 @@
 {
   "name": "redux-ts-utils-example",
   "private": true,
+  "main": "./src/index.tsx",
   "scripts": {
     "commitmsg": "commitlint -E HUSKY_GIT_PARAMS",
     "start": "parcel src/index.html"
